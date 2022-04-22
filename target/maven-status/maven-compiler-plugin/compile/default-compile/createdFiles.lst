@@ -1,0 +1,11 @@
+com\omkar\LoveCalculator\Entity\Communication.class
+com\omkar\LoveCalculator\config\LoveAppConfigwith2linesofcode.class
+com\omkar\LoveCalculator\controllers\LcAppRegisterController.class
+com\omkar\LoveCalculator\controllers\TestController.class
+com\omkar\LoveCalculator\Entity\HomepageDto.class
+com\omkar\LoveCalculator\controllers\LcAppController.class
+com\omkar\LoveCalculator\Formatter\PhoneNoFormatter.class
+com\omkar\LoveCalculator\Entity\UserRegisterDTO.class
+com\omkar\LoveCalculator\config\LoveCalculatorConfig.class
+com\omkar\LoveCalculator\config\LoveCalculatorWebInitializer.class
+com\omkar\LoveCalculator\Entity\Phone.class
